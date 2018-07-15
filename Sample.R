@@ -2,7 +2,7 @@
 
 y = seq(1:10)
 
-x = sqrt(y)
+x = y^2
 
 # plot
 plot(y,x, type="l")
